@@ -22,7 +22,7 @@ Nesse desafio, você irá implementar uma aplicação de gerenciamento de sen
 Essa aplicação possui duas telas, sendo a primeira delas uma listagem das senhas salvas e a segunda a tela de cadastro de novos logins.
 
 <h1 align="center">
-  <img src="Print/Print01.png">
-  <img src="Print/Print02.png">
-  <img src="Print/Print03.png">
+  <img src="Print/Print01.png" width="250" height="500">   
+  <img src="Print/Print02.png" width="250" height="500">   
+  <img src="Print/Print03.png" width="250" height="500">   
 </h1>
